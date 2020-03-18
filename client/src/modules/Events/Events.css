@@ -1,0 +1,14 @@
+.event-single-info
+{
+    display: flex;
+}
+.events-wrap
+{
+    display: flex;
+}
+.events-filter
+{
+    margin:20px;
+    position:fixed;
+    right: 70px;
+}

@@ -1,0 +1,751 @@
+
+error [Wed Mar 11 2020 22:27:07 GMT+0530 (India Standard Time)]  /Users/yogeshwaranramesh/College/Event-Management-Without-Docker/controllers/forum.js:75
+        if (voteBool) { 
+        ^^
+
+SyntaxError: Unexpected token if
+    at Module._compile (internal/modules/cjs/loader.js:720:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:643:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:556:12)
+    at Module.require (internal/modules/cjs/loader.js:683:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Server.initControllers (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/server.js:52:37)
+    at Server.init (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/server.js:18:18)
+    at new Server (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/server.js:12:14)
+    at Object.<anonymous> (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/server.js:94:16)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:643:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:556:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:839:10)
+    at internal/main/run_main_module.js:17:11
+error [Wed Mar 11 2020 22:27:07 GMT+0530 (India Standard Time)]  /Users/yogeshwaranramesh/College/Event-Management-Without-Docker/routes/forum.js:99
+module.exports = controller => {
+      ^
+
+SyntaxError: Unexpected token .
+    at Module._compile (internal/modules/cjs/loader.js:720:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:643:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:556:12)
+    at Module.require (internal/modules/cjs/loader.js:683:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Server.initRoutes (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/server.js:75:33)
+    at Server.init (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/server.js:19:18)
+    at new Server (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/server.js:12:14)
+    at Object.<anonymous> (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/server.js:94:16)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:643:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:556:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:839:10)
+    at internal/main/run_main_module.js:17:11
+
+error [Wed Mar 11 2020 22:27:07 GMT+0530 (India Standard Time)]  /Users/yogeshwaranramesh/College/Event-Management-Without-Docker/controllers/forum.js:75
+        if (voteBool) { 
+        ^^
+
+SyntaxError: Unexpected token if
+    at Module._compile (internal/modules/cjs/loader.js:720:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:643:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:556:12)
+    at Module.require (internal/modules/cjs/loader.js:683:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Server.initControllers (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/server.js:52:37)
+    at Server.init (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/server.js:18:18)
+    at new Server (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/server.js:12:14)
+    at Object.<anonymous> (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/server.js:94:16)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:643:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:556:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:839:10)
+    at internal/main/run_main_module.js:17:11
+
+error [Wed Mar 11 2020 22:27:29 GMT+0530 (India Standard Time)]  /Users/yogeshwaranramesh/College/Event-Management-Without-Docker/controllers/forum.js:75
+        if (voteBool) { 
+        ^^
+
+SyntaxError: Unexpected token if
+    at Module._compile (internal/modules/cjs/loader.js:720:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:643:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:556:12)
+    at Module.require (internal/modules/cjs/loader.js:683:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Server.initControllers (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/server.js:52:37)
+    at Server.init (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/server.js:18:18)
+    at new Server (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/server.js:12:14)
+    at Object.<anonymous> (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/server.js:94:16)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:643:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:556:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:839:10)
+    at internal/main/run_main_module.js:17:11
+
+error [Wed Mar 11 2020 22:27:34 GMT+0530 (India Standard Time)]  /Users/yogeshwaranramesh/College/Event-Management-Without-Docker/controllers/forum.js:75
+        if (voteBool) { 
+        ^^
+
+SyntaxError: Unexpected token if
+    at Module._compile (internal/modules/cjs/loader.js:720:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:643:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:556:12)
+    at Module.require (internal/modules/cjs/loader.js:683:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Server.initControllers (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/server.js:52:37)
+    at Server.init (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/server.js:18:18)
+    at new Server (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/server.js:12:14)
+    at Object.<anonymous> (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/server.js:94:16)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:643:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:556:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:839:10)
+    at internal/main/run_main_module.js:17:11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+error [Wed Mar 11 2020 22:44:23 GMT+0530 (India Standard Time)]  DatabaseError [SequelizeDatabaseError]: relation "Answers" does not exist
+    at Query.formatError (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/sequelize/lib/dialects/postgres/query.js:366:16)
+    at /Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/sequelize/lib/dialects/postgres/query.js:72:18
+    at tryCatcher (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:725:18)
+    at _drainQueueStep (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:93:12)
+    at _drainQueue (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:86:9)
+    at Async._drainQueues (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:15:14)
+    at processImmediate (internal/timers.js:439:21) {
+  name: 'SequelizeDatabaseError',
+  parent: error: relation "Answers" does not exist
+      at Connection.parseE (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:614:13)
+      at Connection.parseMessage (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:413:19)
+      at Socket.<anonymous> (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:129:22)
+      at Socket.emit (events.js:203:13)
+      at addChunk (_stream_readable.js:294:12)
+      at readableAddChunk (_stream_readable.js:275:11)
+      at Socket.Readable.push (_stream_readable.js:210:10)
+      at TCP.onStreamRead (internal/stream_base_commons.js:166:17) {
+    name: 'error',
+    length: 107,
+    severity: 'ERROR',
+    code: '42P01',
+    detail: undefined,
+    hint: undefined,
+    position: '629',
+    internalPosition: undefined,
+    internalQuery: undefined,
+    where: undefined,
+    schema: undefined,
+    table: undefined,
+    column: undefined,
+    dataType: undefined,
+    constraint: undefined,
+    file: 'parse_relation.c',
+    line: '1180',
+    routine: 'parserOpenTable',
+    sql: `SELECT "Answers"."id", "Answers"."UserId", "Answers"."QuestionId", "Answers"."description", "Answers"."vote", "Answers"."createdAt", "Answers"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt" FROM "Answers" AS "Answers" LEFT OUTER JOIN "Users" AS "user" ON "Answers"."UserId" = "user"."id" WHERE "Answers"."QuestionId" = '3';`,
+    parameters: undefined
+  },
+  original: error: relation "Answers" does not exist
+      at Connection.parseE (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:614:13)
+      at Connection.parseMessage (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:413:19)
+      at Socket.<anonymous> (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:129:22)
+      at Socket.emit (events.js:203:13)
+      at addChunk (_stream_readable.js:294:12)
+      at readableAddChunk (_stream_readable.js:275:11)
+      at Socket.Readable.push (_stream_readable.js:210:10)
+      at TCP.onStreamRead (internal/stream_base_commons.js:166:17) {
+    name: 'error',
+    length: 107,
+    severity: 'ERROR',
+    code: '42P01',
+    detail: undefined,
+    hint: undefined,
+    position: '629',
+    internalPosition: undefined,
+    internalQuery: undefined,
+    where: undefined,
+    schema: undefined,
+    table: undefined,
+    column: undefined,
+    dataType: undefined,
+    constraint: undefined,
+    file: 'parse_relation.c',
+    line: '1180',
+    routine: 'parserOpenTable',
+    sql: `SELECT "Answers"."id", "Answers"."UserId", "Answers"."QuestionId", "Answers"."description", "Answers"."vote", "Answers"."createdAt", "Answers"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt" FROM "Answers" AS "Answers" LEFT OUTER JOIN "Users" AS "user" ON "Answers"."UserId" = "user"."id" WHERE "Answers"."QuestionId" = '3';`,
+    parameters: undefined
+  },
+  sql: `SELECT "Answers"."id", "Answers"."UserId", "Answers"."QuestionId", "Answers"."description", "Answers"."vote", "Answers"."createdAt", "Answers"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt" FROM "Answers" AS "Answers" LEFT OUTER JOIN "Users" AS "user" ON "Answers"."UserId" = "user"."id" WHERE "Answers"."QuestionId" = '3';`,
+  parameters: undefined
+}
+error [Wed Mar 11 2020 22:44:23 GMT+0530 (India Standard Time)]  DatabaseError [SequelizeDatabaseError]: relation "Answers" does not exist
+    at Query.formatError (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/sequelize/lib/dialects/postgres/query.js:366:16)
+    at /Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/sequelize/lib/dialects/postgres/query.js:72:18
+    at tryCatcher (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:725:18)
+    at _drainQueueStep (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:93:12)
+    at _drainQueue (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:86:9)
+    at Async._drainQueues (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:15:14)
+    at processImmediate (internal/timers.js:439:21) {
+  name: 'SequelizeDatabaseError',
+  parent: error: relation "Answers" does not exist
+      at Connection.parseE (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:614:13)
+      at Connection.parseMessage (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:413:19)
+      at Socket.<anonymous> (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:129:22)
+      at Socket.emit (events.js:203:13)
+      at addChunk (_stream_readable.js:294:12)
+      at readableAddChunk (_stream_readable.js:275:11)
+      at Socket.Readable.push (_stream_readable.js:210:10)
+      at TCP.onStreamRead (internal/stream_base_commons.js:166:17) {
+    name: 'error',
+    length: 107,
+    severity: 'ERROR',
+    code: '42P01',
+    detail: undefined,
+    hint: undefined,
+    position: '629',
+    internalPosition: undefined,
+    internalQuery: undefined,
+    where: undefined,
+    schema: undefined,
+    table: undefined,
+    column: undefined,
+    dataType: undefined,
+    constraint: undefined,
+    file: 'parse_relation.c',
+    line: '1180',
+    routine: 'parserOpenTable',
+    sql: `SELECT "Answers"."id", "Answers"."UserId", "Answers"."QuestionId", "Answers"."description", "Answers"."vote", "Answers"."createdAt", "Answers"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt" FROM "Answers" AS "Answers" LEFT OUTER JOIN "Users" AS "user" ON "Answers"."UserId" = "user"."id" WHERE "Answers"."QuestionId" = '3';`,
+    parameters: undefined
+  },
+  original: error: relation "Answers" does not exist
+      at Connection.parseE (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:614:13)
+      at Connection.parseMessage (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:413:19)
+      at Socket.<anonymous> (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:129:22)
+      at Socket.emit (events.js:203:13)
+      at addChunk (_stream_readable.js:294:12)
+      at readableAddChunk (_stream_readable.js:275:11)
+      at Socket.Readable.push (_stream_readable.js:210:10)
+      at TCP.onStreamRead (internal/stream_base_commons.js:166:17) {
+    name: 'error',
+    length: 107,
+    severity: 'ERROR',
+    code: '42P01',
+    detail: undefined,
+    hint: undefined,
+    position: '629',
+    internalPosition: undefined,
+    internalQuery: undefined,
+    where: undefined,
+    schema: undefined,
+    table: undefined,
+    column: undefined,
+    dataType: undefined,
+    constraint: undefined,
+    file: 'parse_relation.c',
+    line: '1180',
+    routine: 'parserOpenTable',
+    sql: `SELECT "Answers"."id", "Answers"."UserId", "Answers"."QuestionId", "Answers"."description", "Answers"."vote", "Answers"."createdAt", "Answers"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt" FROM "Answers" AS "Answers" LEFT OUTER JOIN "Users" AS "user" ON "Answers"."UserId" = "user"."id" WHERE "Answers"."QuestionId" = '3';`,
+    parameters: undefined
+  },
+  sql: `SELECT "Answers"."id", "Answers"."UserId", "Answers"."QuestionId", "Answers"."description", "Answers"."vote", "Answers"."createdAt", "Answers"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt" FROM "Answers" AS "Answers" LEFT OUTER JOIN "Users" AS "user" ON "Answers"."UserId" = "user"."id" WHERE "Answers"."QuestionId" = '3';`,
+  parameters: undefined
+}
+error [Wed Mar 11 2020 22:56:26 GMT+0530 (India Standard Time)]  DatabaseError [SequelizeDatabaseError]: relation "Events" does not exist
+    at Query.formatError (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/sequelize/lib/dialects/postgres/query.js:366:16)
+    at /Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/sequelize/lib/dialects/postgres/query.js:72:18
+    at tryCatcher (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:725:18)
+    at _drainQueueStep (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:93:12)
+    at _drainQueue (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:86:9)
+    at Async._drainQueues (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:15:14)
+    at processImmediate (internal/timers.js:439:21) {
+  name: 'SequelizeDatabaseError',
+  parent: error: relation "Events" does not exist
+      at Connection.parseE (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:614:13)
+      at Connection.parseMessage (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:413:19)
+      at Socket.<anonymous> (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:129:22)
+      at Socket.emit (events.js:203:13)
+      at addChunk (_stream_readable.js:294:12)
+      at readableAddChunk (_stream_readable.js:275:11)
+      at Socket.Readable.push (_stream_readable.js:210:10)
+      at TCP.onStreamRead (internal/stream_base_commons.js:166:17) {
+    name: 'error',
+    length: 107,
+    severity: 'ERROR',
+    code: '42P01',
+    detail: undefined,
+    hint: undefined,
+    position: '1025',
+    internalPosition: undefined,
+    internalQuery: undefined,
+    where: undefined,
+    schema: undefined,
+    table: undefined,
+    column: undefined,
+    dataType: undefined,
+    constraint: undefined,
+    file: 'parse_relation.c',
+    line: '1180',
+    routine: 'parserOpenTable',
+    sql: 'SELECT "Event"."id", "Event"."UserId", "Event"."name", "Event"."state", "Event"."district", "Event"."locality", "Event"."cateogory", "Event"."geoLocation", "Event"."description", "Event"."image", "Event"."url", "Event"."views", "Event"."start_date", "Event"."createdAt", "Event"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt", "comments"."id" AS "comments.id", "comments"."UserId" AS "comments.UserId", "comments"."EventId" AS "comments.EventId", "comments"."comment" AS "comments.comment", "comments"."createdAt" AS "comments.createdAt", "comments"."updatedAt" AS "comments.updatedAt" FROM "Events" AS "Event" LEFT OUTER JOIN "Users" AS "user" ON "Event"."UserId" = "user"."id" LEFT OUTER JOIN "Comments" AS "comments" ON "Event"."id" = "comments"."EventId";',
+    parameters: undefined
+  },
+  original: error: relation "Events" does not exist
+      at Connection.parseE (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:614:13)
+      at Connection.parseMessage (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:413:19)
+      at Socket.<anonymous> (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:129:22)
+      at Socket.emit (events.js:203:13)
+      at addChunk (_stream_readable.js:294:12)
+      at readableAddChunk (_stream_readable.js:275:11)
+      at Socket.Readable.push (_stream_readable.js:210:10)
+      at TCP.onStreamRead (internal/stream_base_commons.js:166:17) {
+    name: 'error',
+    length: 107,
+    severity: 'ERROR',
+    code: '42P01',
+    detail: undefined,
+    hint: undefined,
+    position: '1025',
+    internalPosition: undefined,
+    internalQuery: undefined,
+    where: undefined,
+    schema: undefined,
+    table: undefined,
+    column: undefined,
+    dataType: undefined,
+    constraint: undefined,
+    file: 'parse_relation.c',
+    line: '1180',
+    routine: 'parserOpenTable',
+    sql: 'SELECT "Event"."id", "Event"."UserId", "Event"."name", "Event"."state", "Event"."district", "Event"."locality", "Event"."cateogory", "Event"."geoLocation", "Event"."description", "Event"."image", "Event"."url", "Event"."views", "Event"."start_date", "Event"."createdAt", "Event"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt", "comments"."id" AS "comments.id", "comments"."UserId" AS "comments.UserId", "comments"."EventId" AS "comments.EventId", "comments"."comment" AS "comments.comment", "comments"."createdAt" AS "comments.createdAt", "comments"."updatedAt" AS "comments.updatedAt" FROM "Events" AS "Event" LEFT OUTER JOIN "Users" AS "user" ON "Event"."UserId" = "user"."id" LEFT OUTER JOIN "Comments" AS "comments" ON "Event"."id" = "comments"."EventId";',
+    parameters: undefined
+  },
+  sql: 'SELECT "Event"."id", "Event"."UserId", "Event"."name", "Event"."state", "Event"."district", "Event"."locality", "Event"."cateogory", "Event"."geoLocation", "Event"."description", "Event"."image", "Event"."url", "Event"."views", "Event"."start_date", "Event"."createdAt", "Event"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt", "comments"."id" AS "comments.id", "comments"."UserId" AS "comments.UserId", "comments"."EventId" AS "comments.EventId", "comments"."comment" AS "comments.comment", "comments"."createdAt" AS "comments.createdAt", "comments"."updatedAt" AS "comments.updatedAt" FROM "Events" AS "Event" LEFT OUTER JOIN "Users" AS "user" ON "Event"."UserId" = "user"."id" LEFT OUTER JOIN "Comments" AS "comments" ON "Event"."id" = "comments"."EventId";',
+  parameters: undefined
+}
+error [Wed Mar 11 2020 22:56:26 GMT+0530 (India Standard Time)]  DatabaseError [SequelizeDatabaseError]: relation "Events" does not exist
+    at Query.formatError (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/sequelize/lib/dialects/postgres/query.js:366:16)
+    at /Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/sequelize/lib/dialects/postgres/query.js:72:18
+    at tryCatcher (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:725:18)
+    at _drainQueueStep (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:93:12)
+    at _drainQueue (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:86:9)
+    at Async._drainQueues (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:15:14)
+    at processImmediate (internal/timers.js:439:21) {
+  name: 'SequelizeDatabaseError',
+  parent: error: relation "Events" does not exist
+      at Connection.parseE (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:614:13)
+      at Connection.parseMessage (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:413:19)
+      at Socket.<anonymous> (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:129:22)
+      at Socket.emit (events.js:203:13)
+      at addChunk (_stream_readable.js:294:12)
+      at readableAddChunk (_stream_readable.js:275:11)
+      at Socket.Readable.push (_stream_readable.js:210:10)
+      at TCP.onStreamRead (internal/stream_base_commons.js:166:17) {
+    name: 'error',
+    length: 107,
+    severity: 'ERROR',
+    code: '42P01',
+    detail: undefined,
+    hint: undefined,
+    position: '1025',
+    internalPosition: undefined,
+    internalQuery: undefined,
+    where: undefined,
+    schema: undefined,
+    table: undefined,
+    column: undefined,
+    dataType: undefined,
+    constraint: undefined,
+    file: 'parse_relation.c',
+    line: '1180',
+    routine: 'parserOpenTable',
+    sql: 'SELECT "Event"."id", "Event"."UserId", "Event"."name", "Event"."state", "Event"."district", "Event"."locality", "Event"."cateogory", "Event"."geoLocation", "Event"."description", "Event"."image", "Event"."url", "Event"."views", "Event"."start_date", "Event"."createdAt", "Event"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt", "comments"."id" AS "comments.id", "comments"."UserId" AS "comments.UserId", "comments"."EventId" AS "comments.EventId", "comments"."comment" AS "comments.comment", "comments"."createdAt" AS "comments.createdAt", "comments"."updatedAt" AS "comments.updatedAt" FROM "Events" AS "Event" LEFT OUTER JOIN "Users" AS "user" ON "Event"."UserId" = "user"."id" LEFT OUTER JOIN "Comments" AS "comments" ON "Event"."id" = "comments"."EventId";',
+    parameters: undefined
+  },
+  original: error: relation "Events" does not exist
+      at Connection.parseE (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:614:13)
+      at Connection.parseMessage (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:413:19)
+      at Socket.<anonymous> (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:129:22)
+      at Socket.emit (events.js:203:13)
+      at addChunk (_stream_readable.js:294:12)
+      at readableAddChunk (_stream_readable.js:275:11)
+      at Socket.Readable.push (_stream_readable.js:210:10)
+      at TCP.onStreamRead (internal/stream_base_commons.js:166:17) {
+    name: 'error',
+    length: 107,
+    severity: 'ERROR',
+    code: '42P01',
+    detail: undefined,
+    hint: undefined,
+    position: '1025',
+    internalPosition: undefined,
+    internalQuery: undefined,
+    where: undefined,
+    schema: undefined,
+    table: undefined,
+    column: undefined,
+    dataType: undefined,
+    constraint: undefined,
+    file: 'parse_relation.c',
+    line: '1180',
+    routine: 'parserOpenTable',
+    sql: 'SELECT "Event"."id", "Event"."UserId", "Event"."name", "Event"."state", "Event"."district", "Event"."locality", "Event"."cateogory", "Event"."geoLocation", "Event"."description", "Event"."image", "Event"."url", "Event"."views", "Event"."start_date", "Event"."createdAt", "Event"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt", "comments"."id" AS "comments.id", "comments"."UserId" AS "comments.UserId", "comments"."EventId" AS "comments.EventId", "comments"."comment" AS "comments.comment", "comments"."createdAt" AS "comments.createdAt", "comments"."updatedAt" AS "comments.updatedAt" FROM "Events" AS "Event" LEFT OUTER JOIN "Users" AS "user" ON "Event"."UserId" = "user"."id" LEFT OUTER JOIN "Comments" AS "comments" ON "Event"."id" = "comments"."EventId";',
+    parameters: undefined
+  },
+  sql: 'SELECT "Event"."id", "Event"."UserId", "Event"."name", "Event"."state", "Event"."district", "Event"."locality", "Event"."cateogory", "Event"."geoLocation", "Event"."description", "Event"."image", "Event"."url", "Event"."views", "Event"."start_date", "Event"."createdAt", "Event"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt", "comments"."id" AS "comments.id", "comments"."UserId" AS "comments.UserId", "comments"."EventId" AS "comments.EventId", "comments"."comment" AS "comments.comment", "comments"."createdAt" AS "comments.createdAt", "comments"."updatedAt" AS "comments.updatedAt" FROM "Events" AS "Event" LEFT OUTER JOIN "Users" AS "user" ON "Event"."UserId" = "user"."id" LEFT OUTER JOIN "Comments" AS "comments" ON "Event"."id" = "comments"."EventId";',
+  parameters: undefined
+}
+error [Wed Mar 11 2020 22:58:39 GMT+0530 (India Standard Time)]  DatabaseError [SequelizeDatabaseError]: relation "Events" does not exist
+    at Query.formatError (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/sequelize/lib/dialects/postgres/query.js:366:16)
+    at /Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/sequelize/lib/dialects/postgres/query.js:72:18
+    at tryCatcher (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:725:18)
+    at _drainQueueStep (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:93:12)
+    at _drainQueue (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:86:9)
+    at Async._drainQueues (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:15:14)
+    at processImmediate (internal/timers.js:439:21) {
+  name: 'SequelizeDatabaseError',
+  parent: error: relation "Events" does not exist
+      at Connection.parseE (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:614:13)
+      at Connection.parseMessage (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:413:19)
+      at Socket.<anonymous> (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:129:22)
+      at Socket.emit (events.js:203:13)
+      at addChunk (_stream_readable.js:294:12)
+      at readableAddChunk (_stream_readable.js:275:11)
+      at Socket.Readable.push (_stream_readable.js:210:10)
+      at TCP.onStreamRead (internal/stream_base_commons.js:166:17) {
+    name: 'error',
+    length: 107,
+    severity: 'ERROR',
+    code: '42P01',
+    detail: undefined,
+    hint: undefined,
+    position: '1025',
+    internalPosition: undefined,
+    internalQuery: undefined,
+    where: undefined,
+    schema: undefined,
+    table: undefined,
+    column: undefined,
+    dataType: undefined,
+    constraint: undefined,
+    file: 'parse_relation.c',
+    line: '1180',
+    routine: 'parserOpenTable',
+    sql: 'SELECT "Event"."id", "Event"."UserId", "Event"."name", "Event"."state", "Event"."district", "Event"."locality", "Event"."cateogory", "Event"."geoLocation", "Event"."description", "Event"."image", "Event"."url", "Event"."views", "Event"."start_date", "Event"."createdAt", "Event"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt", "comments"."id" AS "comments.id", "comments"."UserId" AS "comments.UserId", "comments"."EventId" AS "comments.EventId", "comments"."comment" AS "comments.comment", "comments"."createdAt" AS "comments.createdAt", "comments"."updatedAt" AS "comments.updatedAt" FROM "Events" AS "Event" LEFT OUTER JOIN "Users" AS "user" ON "Event"."UserId" = "user"."id" LEFT OUTER JOIN "Comments" AS "comments" ON "Event"."id" = "comments"."EventId";',
+    parameters: undefined
+  },
+  original: error: relation "Events" does not exist
+      at Connection.parseE (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:614:13)
+      at Connection.parseMessage (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:413:19)
+      at Socket.<anonymous> (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:129:22)
+      at Socket.emit (events.js:203:13)
+      at addChunk (_stream_readable.js:294:12)
+      at readableAddChunk (_stream_readable.js:275:11)
+      at Socket.Readable.push (_stream_readable.js:210:10)
+      at TCP.onStreamRead (internal/stream_base_commons.js:166:17) {
+    name: 'error',
+    length: 107,
+    severity: 'ERROR',
+    code: '42P01',
+    detail: undefined,
+    hint: undefined,
+    position: '1025',
+    internalPosition: undefined,
+    internalQuery: undefined,
+    where: undefined,
+    schema: undefined,
+    table: undefined,
+    column: undefined,
+    dataType: undefined,
+    constraint: undefined,
+    file: 'parse_relation.c',
+    line: '1180',
+    routine: 'parserOpenTable',
+    sql: 'SELECT "Event"."id", "Event"."UserId", "Event"."name", "Event"."state", "Event"."district", "Event"."locality", "Event"."cateogory", "Event"."geoLocation", "Event"."description", "Event"."image", "Event"."url", "Event"."views", "Event"."start_date", "Event"."createdAt", "Event"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt", "comments"."id" AS "comments.id", "comments"."UserId" AS "comments.UserId", "comments"."EventId" AS "comments.EventId", "comments"."comment" AS "comments.comment", "comments"."createdAt" AS "comments.createdAt", "comments"."updatedAt" AS "comments.updatedAt" FROM "Events" AS "Event" LEFT OUTER JOIN "Users" AS "user" ON "Event"."UserId" = "user"."id" LEFT OUTER JOIN "Comments" AS "comments" ON "Event"."id" = "comments"."EventId";',
+    parameters: undefined
+  },
+  sql: 'SELECT "Event"."id", "Event"."UserId", "Event"."name", "Event"."state", "Event"."district", "Event"."locality", "Event"."cateogory", "Event"."geoLocation", "Event"."description", "Event"."image", "Event"."url", "Event"."views", "Event"."start_date", "Event"."createdAt", "Event"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt", "comments"."id" AS "comments.id", "comments"."UserId" AS "comments.UserId", "comments"."EventId" AS "comments.EventId", "comments"."comment" AS "comments.comment", "comments"."createdAt" AS "comments.createdAt", "comments"."updatedAt" AS "comments.updatedAt" FROM "Events" AS "Event" LEFT OUTER JOIN "Users" AS "user" ON "Event"."UserId" = "user"."id" LEFT OUTER JOIN "Comments" AS "comments" ON "Event"."id" = "comments"."EventId";',
+  parameters: undefined
+}
+error [Wed Mar 11 2020 22:58:39 GMT+0530 (India Standard Time)]  DatabaseError [SequelizeDatabaseError]: relation "Events" does not exist
+    at Query.formatError (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/sequelize/lib/dialects/postgres/query.js:366:16)
+    at /Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/sequelize/lib/dialects/postgres/query.js:72:18
+    at tryCatcher (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:725:18)
+    at _drainQueueStep (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:93:12)
+    at _drainQueue (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:86:9)
+    at Async._drainQueues (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:15:14)
+    at processImmediate (internal/timers.js:439:21) {
+  name: 'SequelizeDatabaseError',
+  parent: error: relation "Events" does not exist
+      at Connection.parseE (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:614:13)
+      at Connection.parseMessage (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:413:19)
+      at Socket.<anonymous> (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:129:22)
+      at Socket.emit (events.js:203:13)
+      at addChunk (_stream_readable.js:294:12)
+      at readableAddChunk (_stream_readable.js:275:11)
+      at Socket.Readable.push (_stream_readable.js:210:10)
+      at TCP.onStreamRead (internal/stream_base_commons.js:166:17) {
+    name: 'error',
+    length: 107,
+    severity: 'ERROR',
+    code: '42P01',
+    detail: undefined,
+    hint: undefined,
+    position: '1025',
+    internalPosition: undefined,
+    internalQuery: undefined,
+    where: undefined,
+    schema: undefined,
+    table: undefined,
+    column: undefined,
+    dataType: undefined,
+    constraint: undefined,
+    file: 'parse_relation.c',
+    line: '1180',
+    routine: 'parserOpenTable',
+    sql: 'SELECT "Event"."id", "Event"."UserId", "Event"."name", "Event"."state", "Event"."district", "Event"."locality", "Event"."cateogory", "Event"."geoLocation", "Event"."description", "Event"."image", "Event"."url", "Event"."views", "Event"."start_date", "Event"."createdAt", "Event"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt", "comments"."id" AS "comments.id", "comments"."UserId" AS "comments.UserId", "comments"."EventId" AS "comments.EventId", "comments"."comment" AS "comments.comment", "comments"."createdAt" AS "comments.createdAt", "comments"."updatedAt" AS "comments.updatedAt" FROM "Events" AS "Event" LEFT OUTER JOIN "Users" AS "user" ON "Event"."UserId" = "user"."id" LEFT OUTER JOIN "Comments" AS "comments" ON "Event"."id" = "comments"."EventId";',
+    parameters: undefined
+  },
+  original: error: relation "Events" does not exist
+      at Connection.parseE (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:614:13)
+      at Connection.parseMessage (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:413:19)
+      at Socket.<anonymous> (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:129:22)
+      at Socket.emit (events.js:203:13)
+      at addChunk (_stream_readable.js:294:12)
+      at readableAddChunk (_stream_readable.js:275:11)
+      at Socket.Readable.push (_stream_readable.js:210:10)
+      at TCP.onStreamRead (internal/stream_base_commons.js:166:17) {
+    name: 'error',
+    length: 107,
+    severity: 'ERROR',
+    code: '42P01',
+    detail: undefined,
+    hint: undefined,
+    position: '1025',
+    internalPosition: undefined,
+    internalQuery: undefined,
+    where: undefined,
+    schema: undefined,
+    table: undefined,
+    column: undefined,
+    dataType: undefined,
+    constraint: undefined,
+    file: 'parse_relation.c',
+    line: '1180',
+    routine: 'parserOpenTable',
+    sql: 'SELECT "Event"."id", "Event"."UserId", "Event"."name", "Event"."state", "Event"."district", "Event"."locality", "Event"."cateogory", "Event"."geoLocation", "Event"."description", "Event"."image", "Event"."url", "Event"."views", "Event"."start_date", "Event"."createdAt", "Event"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt", "comments"."id" AS "comments.id", "comments"."UserId" AS "comments.UserId", "comments"."EventId" AS "comments.EventId", "comments"."comment" AS "comments.comment", "comments"."createdAt" AS "comments.createdAt", "comments"."updatedAt" AS "comments.updatedAt" FROM "Events" AS "Event" LEFT OUTER JOIN "Users" AS "user" ON "Event"."UserId" = "user"."id" LEFT OUTER JOIN "Comments" AS "comments" ON "Event"."id" = "comments"."EventId";',
+    parameters: undefined
+  },
+  sql: 'SELECT "Event"."id", "Event"."UserId", "Event"."name", "Event"."state", "Event"."district", "Event"."locality", "Event"."cateogory", "Event"."geoLocation", "Event"."description", "Event"."image", "Event"."url", "Event"."views", "Event"."start_date", "Event"."createdAt", "Event"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt", "comments"."id" AS "comments.id", "comments"."UserId" AS "comments.UserId", "comments"."EventId" AS "comments.EventId", "comments"."comment" AS "comments.comment", "comments"."createdAt" AS "comments.createdAt", "comments"."updatedAt" AS "comments.updatedAt" FROM "Events" AS "Event" LEFT OUTER JOIN "Users" AS "user" ON "Event"."UserId" = "user"."id" LEFT OUTER JOIN "Comments" AS "comments" ON "Event"."id" = "comments"."EventId";',
+  parameters: undefined
+}
+error [Wed Mar 11 2020 23:04:17 GMT+0530 (India Standard Time)]  DatabaseError [SequelizeDatabaseError]: relation "Events" does not exist
+    at Query.formatError (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/sequelize/lib/dialects/postgres/query.js:366:16)
+    at /Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/sequelize/lib/dialects/postgres/query.js:72:18
+    at tryCatcher (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:725:18)
+    at _drainQueueStep (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:93:12)
+    at _drainQueue (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:86:9)
+    at Async._drainQueues (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:15:14)
+    at processImmediate (internal/timers.js:439:21) {
+  name: 'SequelizeDatabaseError',
+  parent: error: relation "Events" does not exist
+      at Connection.parseE (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:614:13)
+      at Connection.parseMessage (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:413:19)
+      at Socket.<anonymous> (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:129:22)
+      at Socket.emit (events.js:203:13)
+      at addChunk (_stream_readable.js:294:12)
+      at readableAddChunk (_stream_readable.js:275:11)
+      at Socket.Readable.push (_stream_readable.js:210:10)
+      at TCP.onStreamRead (internal/stream_base_commons.js:166:17) {
+    name: 'error',
+    length: 107,
+    severity: 'ERROR',
+    code: '42P01',
+    detail: undefined,
+    hint: undefined,
+    position: '1025',
+    internalPosition: undefined,
+    internalQuery: undefined,
+    where: undefined,
+    schema: undefined,
+    table: undefined,
+    column: undefined,
+    dataType: undefined,
+    constraint: undefined,
+    file: 'parse_relation.c',
+    line: '1180',
+    routine: 'parserOpenTable',
+    sql: 'SELECT "Event"."id", "Event"."UserId", "Event"."name", "Event"."state", "Event"."district", "Event"."locality", "Event"."cateogory", "Event"."geoLocation", "Event"."description", "Event"."image", "Event"."url", "Event"."views", "Event"."start_date", "Event"."createdAt", "Event"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt", "comments"."id" AS "comments.id", "comments"."UserId" AS "comments.UserId", "comments"."EventId" AS "comments.EventId", "comments"."comment" AS "comments.comment", "comments"."createdAt" AS "comments.createdAt", "comments"."updatedAt" AS "comments.updatedAt" FROM "Events" AS "Event" LEFT OUTER JOIN "Users" AS "user" ON "Event"."UserId" = "user"."id" LEFT OUTER JOIN "Comments" AS "comments" ON "Event"."id" = "comments"."EventId";',
+    parameters: undefined
+  },
+  original: error: relation "Events" does not exist
+      at Connection.parseE (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:614:13)
+      at Connection.parseMessage (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:413:19)
+      at Socket.<anonymous> (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:129:22)
+      at Socket.emit (events.js:203:13)
+      at addChunk (_stream_readable.js:294:12)
+      at readableAddChunk (_stream_readable.js:275:11)
+      at Socket.Readable.push (_stream_readable.js:210:10)
+      at TCP.onStreamRead (internal/stream_base_commons.js:166:17) {
+    name: 'error',
+    length: 107,
+    severity: 'ERROR',
+    code: '42P01',
+    detail: undefined,
+    hint: undefined,
+    position: '1025',
+    internalPosition: undefined,
+    internalQuery: undefined,
+    where: undefined,
+    schema: undefined,
+    table: undefined,
+    column: undefined,
+    dataType: undefined,
+    constraint: undefined,
+    file: 'parse_relation.c',
+    line: '1180',
+    routine: 'parserOpenTable',
+    sql: 'SELECT "Event"."id", "Event"."UserId", "Event"."name", "Event"."state", "Event"."district", "Event"."locality", "Event"."cateogory", "Event"."geoLocation", "Event"."description", "Event"."image", "Event"."url", "Event"."views", "Event"."start_date", "Event"."createdAt", "Event"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt", "comments"."id" AS "comments.id", "comments"."UserId" AS "comments.UserId", "comments"."EventId" AS "comments.EventId", "comments"."comment" AS "comments.comment", "comments"."createdAt" AS "comments.createdAt", "comments"."updatedAt" AS "comments.updatedAt" FROM "Events" AS "Event" LEFT OUTER JOIN "Users" AS "user" ON "Event"."UserId" = "user"."id" LEFT OUTER JOIN "Comments" AS "comments" ON "Event"."id" = "comments"."EventId";',
+    parameters: undefined
+  },
+  sql: 'SELECT "Event"."id", "Event"."UserId", "Event"."name", "Event"."state", "Event"."district", "Event"."locality", "Event"."cateogory", "Event"."geoLocation", "Event"."description", "Event"."image", "Event"."url", "Event"."views", "Event"."start_date", "Event"."createdAt", "Event"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt", "comments"."id" AS "comments.id", "comments"."UserId" AS "comments.UserId", "comments"."EventId" AS "comments.EventId", "comments"."comment" AS "comments.comment", "comments"."createdAt" AS "comments.createdAt", "comments"."updatedAt" AS "comments.updatedAt" FROM "Events" AS "Event" LEFT OUTER JOIN "Users" AS "user" ON "Event"."UserId" = "user"."id" LEFT OUTER JOIN "Comments" AS "comments" ON "Event"."id" = "comments"."EventId";',
+  parameters: undefined
+}
+error [Wed Mar 11 2020 23:04:17 GMT+0530 (India Standard Time)]  DatabaseError [SequelizeDatabaseError]: relation "Events" does not exist
+    at Query.formatError (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/sequelize/lib/dialects/postgres/query.js:366:16)
+    at /Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/sequelize/lib/dialects/postgres/query.js:72:18
+    at tryCatcher (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/promise.js:725:18)
+    at _drainQueueStep (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:93:12)
+    at _drainQueue (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:86:9)
+    at Async._drainQueues (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/bluebird/js/release/async.js:15:14)
+    at processImmediate (internal/timers.js:439:21) {
+  name: 'SequelizeDatabaseError',
+  parent: error: relation "Events" does not exist
+      at Connection.parseE (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:614:13)
+      at Connection.parseMessage (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:413:19)
+      at Socket.<anonymous> (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:129:22)
+      at Socket.emit (events.js:203:13)
+      at addChunk (_stream_readable.js:294:12)
+      at readableAddChunk (_stream_readable.js:275:11)
+      at Socket.Readable.push (_stream_readable.js:210:10)
+      at TCP.onStreamRead (internal/stream_base_commons.js:166:17) {
+    name: 'error',
+    length: 107,
+    severity: 'ERROR',
+    code: '42P01',
+    detail: undefined,
+    hint: undefined,
+    position: '1025',
+    internalPosition: undefined,
+    internalQuery: undefined,
+    where: undefined,
+    schema: undefined,
+    table: undefined,
+    column: undefined,
+    dataType: undefined,
+    constraint: undefined,
+    file: 'parse_relation.c',
+    line: '1180',
+    routine: 'parserOpenTable',
+    sql: 'SELECT "Event"."id", "Event"."UserId", "Event"."name", "Event"."state", "Event"."district", "Event"."locality", "Event"."cateogory", "Event"."geoLocation", "Event"."description", "Event"."image", "Event"."url", "Event"."views", "Event"."start_date", "Event"."createdAt", "Event"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt", "comments"."id" AS "comments.id", "comments"."UserId" AS "comments.UserId", "comments"."EventId" AS "comments.EventId", "comments"."comment" AS "comments.comment", "comments"."createdAt" AS "comments.createdAt", "comments"."updatedAt" AS "comments.updatedAt" FROM "Events" AS "Event" LEFT OUTER JOIN "Users" AS "user" ON "Event"."UserId" = "user"."id" LEFT OUTER JOIN "Comments" AS "comments" ON "Event"."id" = "comments"."EventId";',
+    parameters: undefined
+  },
+  original: error: relation "Events" does not exist
+      at Connection.parseE (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:614:13)
+      at Connection.parseMessage (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:413:19)
+      at Socket.<anonymous> (/Users/yogeshwaranramesh/College/Event-Management-Without-Docker/node_modules/pg/lib/connection.js:129:22)
+      at Socket.emit (events.js:203:13)
+      at addChunk (_stream_readable.js:294:12)
+      at readableAddChunk (_stream_readable.js:275:11)
+      at Socket.Readable.push (_stream_readable.js:210:10)
+      at TCP.onStreamRead (internal/stream_base_commons.js:166:17) {
+    name: 'error',
+    length: 107,
+    severity: 'ERROR',
+    code: '42P01',
+    detail: undefined,
+    hint: undefined,
+    position: '1025',
+    internalPosition: undefined,
+    internalQuery: undefined,
+    where: undefined,
+    schema: undefined,
+    table: undefined,
+    column: undefined,
+    dataType: undefined,
+    constraint: undefined,
+    file: 'parse_relation.c',
+    line: '1180',
+    routine: 'parserOpenTable',
+    sql: 'SELECT "Event"."id", "Event"."UserId", "Event"."name", "Event"."state", "Event"."district", "Event"."locality", "Event"."cateogory", "Event"."geoLocation", "Event"."description", "Event"."image", "Event"."url", "Event"."views", "Event"."start_date", "Event"."createdAt", "Event"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt", "comments"."id" AS "comments.id", "comments"."UserId" AS "comments.UserId", "comments"."EventId" AS "comments.EventId", "comments"."comment" AS "comments.comment", "comments"."createdAt" AS "comments.createdAt", "comments"."updatedAt" AS "comments.updatedAt" FROM "Events" AS "Event" LEFT OUTER JOIN "Users" AS "user" ON "Event"."UserId" = "user"."id" LEFT OUTER JOIN "Comments" AS "comments" ON "Event"."id" = "comments"."EventId";',
+    parameters: undefined
+  },
+  sql: 'SELECT "Event"."id", "Event"."UserId", "Event"."name", "Event"."state", "Event"."district", "Event"."locality", "Event"."cateogory", "Event"."geoLocation", "Event"."description", "Event"."image", "Event"."url", "Event"."views", "Event"."start_date", "Event"."createdAt", "Event"."updatedAt", "user"."id" AS "user.id", "user"."first_name" AS "user.first_name", "user"."last_name" AS "user.last_name", "user"."user_name" AS "user.user_name", "user"."image" AS "user.image", "user"."email" AS "user.email", "user"."designation" AS "user.designation", "user"."gender" AS "user.gender", "user"."password" AS "user.password", "user"."phone" AS "user.phone", "user"."dob" AS "user.dob", "user"."createdAt" AS "user.createdAt", "user"."updatedAt" AS "user.updatedAt", "comments"."id" AS "comments.id", "comments"."UserId" AS "comments.UserId", "comments"."EventId" AS "comments.EventId", "comments"."comment" AS "comments.comment", "comments"."createdAt" AS "comments.createdAt", "comments"."updatedAt" AS "comments.updatedAt" FROM "Events" AS "Event" LEFT OUTER JOIN "Users" AS "user" ON "Event"."UserId" = "user"."id" LEFT OUTER JOIN "Comments" AS "comments" ON "Event"."id" = "comments"."EventId";',
+  parameters: undefined
+}
+
+

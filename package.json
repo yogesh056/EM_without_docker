@@ -1,0 +1,44 @@
+{
+  "name": "event-management",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogesh056/Event-Management.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogesh056/Event-Management/issues"
+  },
+  "homepage": "https://github.com/yogesh056/Event-Management#readme",
+  "devDependencies": {
+    "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "@jharrilim/sentiment": "^6.0.0",
+    "bcryptjs-then": "^1.0.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "http-proxy-middleware": "^0.20.0",
+    "jsonwebtoken": "^8.5.1",
+    "logger": "0.0.1",
+    "moment": "^2.24.0",
+    "nodemailer": "^6.4.2",
+    "nodemon": "^2.0.2",
+    "path": "^0.12.7",
+    "pg": "^7.18.2",
+    "sentiment-analysis": "^0.1.2",
+    "sequelize": "^5.21.3",
+    "socket.io": "^2.3.0"
+  },
+  "proxy": "http://localhost:5000",
+  "description": ""
+}

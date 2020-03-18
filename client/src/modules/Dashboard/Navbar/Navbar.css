@@ -1,0 +1,38 @@
+
+.ant-menu-horizontal
+{
+    text-align: right;
+    height: 64px;
+}
+.ant-layout-header {
+    height: 64px;
+    padding: 10px 30px;
+    line-height: 64px;
+    background: #ffffff;
+}
+.list-events
+{
+    margin-top:35px
+}
+.react-bingmaps 
+{
+    width: 400px !important;
+    height: 350px !important;
+}
+ .ant-back-top {
+    bottom: 100px;
+  }
+.ant-back-top-inner {
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    border-radius: 4px;
+    background-color: #1088e9;
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+  }
+  .event-single-wrap
+  {
+      margin: 24px;
+  }
